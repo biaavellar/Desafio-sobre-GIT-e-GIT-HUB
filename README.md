@@ -1,2 +1,3 @@
 # Desafio-sobre-GIT-e-GIT-HUB
-Desafio faz parte do Bootcamp Santander Universidades 
+
+Repositório criado para o desafio faz parte do Bootcamp Santander Universidades.
